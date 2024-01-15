@@ -1,0 +1,27 @@
+import { Country } from "@/types/Country";
+
+export const countries: Country[] = [
+  { code: "AF", name: "Afghanistan" },
+  { code: "ZA", name: "South Africa" },
+  { code: "DE", name: "Germany" },
+  { code: "AR", name: "Argentina" },
+  { code: "AU", name: "Australia" },
+  { code: "BR", name: "Brazil" },
+  { code: "CA", name: "Canada" },
+  { code: "CN", name: "China" },
+  { code: "KR", name: "South Korea sssssssssssssssssssssssszzzzzzzzzzzzzzzzz" },
+  { code: "EG", name: "Egypt" },
+  { code: "ES", name: "Spain" },
+  { code: "US", name: "United States" },
+  { code: "FR", name: "France" },
+  { code: "IN", name: "India" },
+  { code: "IT", name: "Italy" },
+  { code: "JP", name: "Japan" },
+  { code: "MX", name: "Mexico" },
+  { code: "NG", name: "Nigeria" },
+  { code: "PK", name: "Pakistan" },
+  { code: "GB", name: "United Kingdom" },
+  { code: "RU", name: "Russia" },
+  { code: "SE", name: "Sweden" },
+  { code: "TR", name: "Turkey" },
+];
