@@ -9,20 +9,14 @@ Welcome to the PATHWAY-REACT repository! This repository is designed to serve as
   - Introduction to React and TypeScript
 - [Creating a Project from Scratch](Creating%20a%20Project%20from%20Scratch/README.md)
   - Setting up Webpack and Babel
-  - Project Structure and Best Practices
 - [Components and Props](Components%20and%20Props/README.md)
   - Functional Components vs Class Components
-  - Typing Components with TypeScript
 - [State and Lifecycle](State%20and%20Lifecycle/README.md)
   - useState and useEffect Hooks
   - Component Lifecycle in TypeScript
 - [TypeScript with React](TypeScript%20with%20React/README.md)
   - Basic Types
   - Interfaces and Props
-  - Using Enums and Tuples
-- [Handling Events and Forms](Handling%20Events%20and%20Forms/README.md)
-  - Event Types in TypeScript
-  - Controlled Components
 - [Routing with React Router](Routing%20with%20React%20Router/README.md)
   - Basic Routing
   - Route Parameters
@@ -32,14 +26,7 @@ Welcome to the PATHWAY-REACT repository! This repository is designed to serve as
   - Redux with TypeScript
 - [Testing](Testing/README.md)
   - Unit Testing with Jest
-  - Integration Testing
-- [Advanced Concepts](Advanced%20Concepts/README.md)
-  - Higher-Order Components
-  - Hooks API
-  - Performance Optimization
-- [Building and Deployment](Building%20and%20Deployment/README.md)
-  - Bundling with Webpack
-  - Deployment Strategies
+  - E2E And Component Testing with Cypress
 - [Contributing](Contributing.md)
 - [License](LICENSE)
 
