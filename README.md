@@ -27,6 +27,11 @@ Welcome to the PATHWAY-REACT repository! This repository is designed to serve as
 - [Testing](Testing/README.md)
   - Unit Testing with Jest
   - E2E And Component Testing with Cypress
+- [Libraries and Frameworks](Libraries%20and%20Frameworks/README.md)
+  - Formik/Yup
+  - Moment
+  - Lucide React
+  - Tailwind
 - [Contributing](Contributing.md)
 - [License](LICENSE)
 
