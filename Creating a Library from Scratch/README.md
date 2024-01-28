@@ -521,6 +521,11 @@ jobs:
 The action will trigger automatically and will publish your library.
 Remember, every release you need to update the version in your package.json or it will conflict it an existing version.
 
+Here are some references that helped me build this project:
+
+- [ABC API Integration Tutorial](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe) - I followed this tutorial to create and publish my react component library.
+- [XYZ Framework Documentation](https://www.airplane.dev/blog/how-to-build-a-react-component-library) - This documentation helped me to create the workflow to publish using actions.
+  
 ## Contributions
 
 This section is open to contributions. If you have suggestions, corrections, or additional content related to creating a library from scratch that you'd like to contribute, please follow the guidelines in the [Contributing](../Contributing.md) section.
