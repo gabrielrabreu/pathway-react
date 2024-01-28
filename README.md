@@ -9,6 +9,10 @@ Welcome to the PATHWAY-REACT repository! This repository is designed to serve as
   - Introduction to React and TypeScript
 - [Creating a Project from Scratch](Creating%20a%20Project%20from%20Scratch/README.md)
   - Setting up Webpack and Babel
+- [Creating a Library from Scratch](Creating%20a%20Library%20from%20Scratch/README.md)
+  - Setting up Rollup
+  - Configuring Jest, CSS, SCSS, Tailwind and Storybooks
+  - Publishing with GitHub Actions
 - [Components and Props](Components%20and%20Props/README.md)
   - Functional Components vs Class Components
 - [State and Lifecycle](State%20and%20Lifecycle/README.md)
